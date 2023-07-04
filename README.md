@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/license-GNU_General_Public_License_v3.0-yellow)
 
 Google Drive Video Link 
-https://drive.google.com/file/d/1A-gai_lnYv23eKeSGOuAzPooLiRrhGpo/view
+[https://drive.google.com/file/d/1A-gai_lnYv23eKeSGOuAzPooLiRrhGpo/view](https://drive.google.com/file/d/1nXVMESAkr1ig26_Njzw9D3e9cXcBDw1k/view)
 
 
 ![Screenshot 2023-07-03 201058](https://github.com/Jrr1232/week-10/assets/71472570/f5c81c5d-88aa-4399-a3ab-33ccf62fdb98)
