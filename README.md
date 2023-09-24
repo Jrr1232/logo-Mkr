@@ -13,7 +13,7 @@ Google Drive Video Link
 
 ## 🤔 Introduction
 
-### This is a Node.js command0line application that takes in user input to generate a logo and save it as a SVG file. The application prompts the user to select a color and shape, provide text for the logo, and saves the generated SVG to a .svg file.This project will help me design logo quickly. It will create a 300x200 pixel image that matches the criteria entered.I learned Node.js/Inquirer, Node.js/Jest and OOP 
+This is a Node.js command0line application that takes in user input to generate a logo and save it as a SVG file. The application prompts the user to select a color and shape, provide text for the logo, and saves the generated SVG to a .svg file.This project will help me design logo quickly. It will create a 300x200 pixel image that matches the criteria entered.I learned Node.js/Inquirer, Node.js/Jest and OOP 
 
 
 
